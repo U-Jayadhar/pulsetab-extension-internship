@@ -1,1 +1,0 @@
-# pulsetab-extension-internship
