@@ -26,10 +26,15 @@ Focus areas:
 * This is **not a production-level project**. It's a **learning and prototyping** space where I’m actively experimenting with tools and best practices.
 * Expect frequent updates and changes as I continue to learn and iterate.
 
-## 📍 Next Steps
+## 📍 Steps
 
-* Setting up a Firebase project
-* Begin testing integrations.
+* Setting up a Firebase project. ✅
+* Firestore Datbase. ✅
+* Google OAuth. ✅
+* Hosting. ✅
+
+* Functions. ⏳
+* Begin testing integrations. ⏳
 
 ## 👥 Internship Team
 
