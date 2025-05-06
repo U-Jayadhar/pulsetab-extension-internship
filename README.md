@@ -1,34 +1,35 @@
 # pulsetab-extension-internship
 
-Welcome to the **pulsetab-extension-internship** repository! This is a learning space created as part of an internship focused on developing a browser extension project. The repository is structured to help explore and build proficiency in backend technologies that will be essential for the main project.
+Welcome to the **pulsetab-extension-internship** repository! This project is part of my internship journey, focused on developing a browser extension. It serves as a dedicated space for learning and experimenting with backend technologies that will be integral to the main project.
 
 ## 🚀 Purpose
 
-This repo serves as a **learning ground** for the firebase technologies and tools required in the actual browser extension development.
+This repository is my **personal learning ground** for exploring and integrating Firebase technologies needed for the development of a fully functional browser extension.
 
 ## 🧠 Learning Scope
 
-Technologies & Services:
+Technologies & Services I'm exploring:
 
-- **Firebase Firestore** (NoSQL Database)
-- **Firebase Authentication** (User login & session management)
-- **Firebase Hosting** (Serving web assets)
-- **Firebase Storage** (Storing media and files)
+* **Firebase Firestore** (NoSQL Database)
+* **Firebase Authentication** (User login & session management)
+* **Firebase Hosting** (Serving web assets)
+* **Firebase Storage** (Storing media and files)
 
-Focus:
+Focus areas:
 
-- Setting up and integrating Firebase services
-- Managing user data securely
-- Backend interaction with frontend
+* Setting up and configuring Firebase services
+* Managing user data securely
+* Connecting the backend with a frontend interface
 
 ## 📌 Notes
 
-- This is **not a production repo** — it's intended solely for **learning, prototyping, and exploring** tools and frameworks.
-- The structure and content may change frequently as part of ongoing learning.
+* This is **not a production-level project**. It's a **learning and prototyping** space where I’m actively experimenting with tools and best practices.
+* Expect frequent updates and changes as I continue to learn and iterate.
 
 ## 📍 Next Steps
 
-- Initialize Firebase project and test integrations in the `backend` branch.
+* Setting up a Firebase project
+* Begin testing integrations.
 
 ## 👥 Internship Team
 
