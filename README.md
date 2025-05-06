@@ -64,7 +64,7 @@ Focus:
 - **Frontend(Web Application) Team**
   - [Sanat Malla](https://github.com/Sanat1314)
   - [V. Sai Vamsi Krishna](https://github.com/Vamsi-1392)
-  - [Rishi Samineni]()
+  - [Rishi Samineni](https://github.com/RishiSamineni)
 
 - **Backend(Firebase) Team**
   - [Jayadhar Ummadisingu](https://github.com/U-Jayadhar)
