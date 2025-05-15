@@ -7,13 +7,25 @@
  * See a full list of supported triggers at https://firebase.google.com/docs/functions
  */
 
-import {onRequest} from "firebase-functions/v2/https";
-import * as logger from "firebase-functions/logger";
+import express, { json } from "express";
+import cors from "cors";
+// import { onRequest } from "firebase-functions/v1/https";
 
-// Start writing functions
-// https://firebase.google.com/docs/functions/typescript
+const app = express();
+app.use(json());
+app.use(cors({ origin: true }));
 
-// export const helloWorld = onRequest((request, response) => {
-//   logger.info("Hello logs!", {structuredData: true});
-//   response.send("Hello from Firebase!");
-// });
+app.get("/", (req: any, res: any) => {
+  res.send("Hello from Firebase!");
+});
+
+
+const PORT = 3001;
+app.listen(PORT, () => {
+  console.log(
+    `Express server running successfully and listening on http://localhost:${PORT}/`
+  );
+});
+
+
+// exports.webApi = onRequest(app);
